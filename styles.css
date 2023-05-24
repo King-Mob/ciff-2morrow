@@ -18,7 +18,7 @@ p {
 }
 
 #slogan {
-  margin-top: 100px;
+  margin-top: 125px;
 }
 
 @keyframes jump {
@@ -96,7 +96,7 @@ p {
 }
 
 #mouth {
-  top: -150px;
+  top: -125px;
   left: 73px;
   font-size: 89px;
 }
